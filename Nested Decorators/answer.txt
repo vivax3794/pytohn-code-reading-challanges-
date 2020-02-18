@@ -1,0 +1,12 @@
+[1] defining decorator_one
+[7] defining decorator_two
+[2] decorator_one body
+[6] decorator_one returning
+[9] defining function_one
+[3] decorator_one_inner body
+[5] decorator_one_inner returning
+[11] running function_one
+[4] decorator_one_inner_inner body
+[8] decorator_two body
+[10] function_one body
+[12] done
